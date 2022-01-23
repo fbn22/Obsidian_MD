@@ -1,0 +1,27 @@
+{
+  "userAdmonitions": {
+    "definition": {
+      "type": "definition",
+      "color": "219, 0, 0",
+      "icon": {
+        "name": "search",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Definition",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": true,
+  "copyButton": false,
+  "version": "6.9.5",
+  "autoCollapse": true,
+  "defaultCollapseType": "open",
+  "syncLinks": true,
+  "enableMarkdownProcessor": false,
+  "injectColor": true,
+  "parseTitles": true,
+  "allowMSSyntax": true,
+  "livePreviewMS": true
+}
