@@ -1,0 +1,31 @@
+{
+  "token": "qEk6GrUQmlYTckjhcP0no6zDQJfjGcwsckO3lTLvWUZrGofi9q",
+  "readwiseDir": "📕 Books",
+  "frequency": "60",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 2662212,
+  "currentSyncStatusID": 0,
+  "refreshBooks": true,
+  "booksToRefresh": [],
+  "booksIDsMap": {
+    "Books/Readwise/Books/The E-Myth Revisited.md": "12101973",
+    "Books/Readwise/Books/Think and Grow Rich!.md": "12033028",
+    "Readwise/Books/The E-Myth Revisited.md": "12101973",
+    "Readwise/Books/Think and Grow Rich!.md": "12033028",
+    "📕 Books/Books/The E-Myth Revisited.md": "12101973",
+    "📕 Books/Books/Think and Grow Rich!.md": "12033028",
+    "Books/Books/The E-Myth Revisited.md": "12101973",
+    "Books/Books/Think and Grow Rich!.md": "12033028",
+    "📕 Books/The E-Myth Revisited.md": "12101973",
+    "📕 Books/Think and Grow Rich!.md": "12033028",
+    "📕 Books/Quick Passages.md": "12559172",
+    "📕 Books/Thinking, Fast and Slow.md": "12559226",
+    "📕 Books/Brave New World.md": "12692214",
+    "📕 Books/Animal Farm.md": "12719108",
+    "📕 Books/12 Rules for Life.md": "12719250",
+    "📕 Books/Zero to One.md": "12923236"
+  },
+  "reimportShowConfirmation": true
+}
