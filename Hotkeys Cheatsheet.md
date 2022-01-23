@@ -1,0 +1,32 @@
+# Hotkeys Cheatsheet
+
+- CTRL + SHIFT + N = Extract text as a new note with first line as header/title + leave first line a link
+- CTRL + T = Edit file title
+- CTRL + N - New note
+- CTRL + B = Opens **bold** quotes
+- CTRL + V = Change view/edit mode
+- CTRL + E = Emojis
+- CTRL + L = Internal link
+- CTRL + SHIFT + L = External link
+- CTRL + R = Sync Readwise
+- CTRL + , = Settings
+- CTRL + SHIFT + F = Search on all files
+- CTRL + F = Search in current file
+- CTRL + ~ = Fold everything
+- CTRL + + '-' (minus) = Toggle bullet or numbered list
+- CTRL + SHIFT + P = Pin note
+- CTRL + M = Toggle to-do list
+- CTRL + W = Close note
+- CTRL + SHIFT + ⬅️ = Toggle left sidebar
+- CTRL + SHIFT + ➡️ = Toggle right sidebar
+- CTRL + 3 = Toggle heading
+- CTRL + / = Comment
+- CTRL + \ = Toggle Reading/Edit view
+- CTRL + A = Select All
+- CTRL + ⬅️ – Move the cursor to beginning of the previous word.
+- CTRL + ➡️ – Move cursor to the beginning of next word
+- CTRL + Backspace – Delete the previous word.
+- CTRL + Delete  –  Delete next word.
+- SHIFT + ⬆️⬇️ = Selects paragraphs
+- SHIFT + PageUP = Selects All above
+- SHIFT + PageDown = Selects All below

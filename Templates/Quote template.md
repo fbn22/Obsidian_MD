@@ -1,0 +1,6 @@
+# Quote template
+
+``` ad-quote
+
+
+```

@@ -1,0 +1,2 @@
+# Admonition
+[].(<iframe src="https://squidfunk.github.io/mkdocs-material/reference/admonitions/#removing-the-title" allow="fullscreen" style="height: 100%; width: 100%; aspect-ratio: 16 / 9;"></iframe>)

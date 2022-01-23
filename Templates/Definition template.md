@@ -1,0 +1,7 @@
+# Definition template
+
+
+``` ad-definition 
+
+
+```

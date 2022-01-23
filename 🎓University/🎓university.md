@@ -1,0 +1,4 @@
+# 🎓university
+## Categories
+[[🇵🇱 ALK]]
+[[🇩🇰 BAA]]
