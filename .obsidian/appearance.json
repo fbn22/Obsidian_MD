@@ -1,3 +1,9 @@
 {
-  "baseFontSize": 16
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "baseFontSizeAction": false,
+  "translucency": false,
+  "cssTheme": "Atom"
 }
