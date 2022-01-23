@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✌️Ethics/✌️ethics.md",
+            "file": "Hotkeys Cheatsheet.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✌️Ethics/✌️ethics.md",
+                "file": "Hotkeys Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
   },
   "active": "bdc289b0f72b17b0",
   "lastOpenFiles": [
+    "Hotkeys Cheatsheet.md",
+    "goals.md",
+    "Fayol.md",
+    "Creativity note.md",
+    "Admonition.md",
     "✌️Ethics/✌️ethics.md",
     "✌️Ethics/Consequentialism.md",
     "🎓University/🎓university.md",
     "💼 Business/💼 Business.md",
-    "📕 Books/📕 Books.md",
-    "🖥Tech/🖥tech.md",
-    "Porter’s Generic Strategy.md",
-    "Michael Porter.md",
-    "📕 Books/Meditations.md",
-    "Quotes.md"
+    "📕 Books/📕 Books.md"
   ]
 }
