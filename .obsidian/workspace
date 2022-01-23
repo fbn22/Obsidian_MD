@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "beb963ba14d864d1",
+    "id": "a9881aacef00be82",
     "type": "split",
     "children": [
       {
-        "id": "33a9e8708f27ce22",
+        "id": "bdc289b0f72b17b0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "testnote.md",
+            "file": "✌️Ethics/✌️ethics.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -19,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f0755999bcd5deb7",
+    "id": "b97e4dda6b739207",
     "type": "split",
     "children": [
       {
-        "id": "5b755e48e0b51f81",
+        "id": "8a7ea960f9492c32",
         "type": "tabs",
         "children": [
           {
-            "id": "f1ddb1a1958421c8",
+            "id": "c875af3731c7f255",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,13 +36,13 @@
             }
           },
           {
-            "id": "183b5ed412b1b433",
+            "id": "f5d20426a2bd9e66",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -53,23 +54,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 208
   },
   "right": {
-    "id": "21b8503e08501bcd",
+    "id": "36f8f283a09be8c1",
     "type": "split",
     "children": [
       {
-        "id": "2dd23b276423cf37",
+        "id": "92447a7559280145",
         "type": "tabs",
         "children": [
           {
-            "id": "e778afad9d2cfe93",
+            "id": "16e178777fa08ead",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testnote.md",
+                "file": "✌️Ethics/✌️ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,16 +80,45 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "dbd8fdf5927a2512",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "4aaf1f0961be8525",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 232,
     "collapsed": true
   },
-  "active": "33a9e8708f27ce22",
+  "active": "bdc289b0f72b17b0",
   "lastOpenFiles": [
-    "testnote.md"
+    "✌️Ethics/✌️ethics.md",
+    "🎓University/🎓university.md",
+    "💼 Business/💼 Business.md",
+    "📕 Books/📕 Books.md",
+    "🖥Tech/🖥tech.md",
+    "Porter’s Generic Strategy.md",
+    "Michael Porter.md",
+    "📕 Books/Meditations.md",
+    "Quotes.md",
+    "🧠Psychology/🧠psychology.md"
   ]
 }

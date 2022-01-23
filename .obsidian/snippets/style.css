@@ -1,0 +1,13 @@
+/* Different color for italic */
+.cm-em,
+.markdown-preview-section em {
+  color: #ad5350;
+  font-style: normal !important; 
+}
+
+.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote {
+    border: 0 solid #6a00b1;
+    border-left-width: 5px;
+    background-color: var(--background-secondary);
+    padding: 10px;
+}
