@@ -4,27 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bdc289b0f72b17b0",
-        "type": "leaf",
-        "dimension": 34.28853754940712,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📕 Books/📕 Books.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "4ab643dc013dc684",
         "type": "leaf",
-        "dimension": 65.71146245059289,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blog/History of notes.md",
+            "file": "Blog/Second Brain article.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -85,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/History of notes.md",
+                "file": "Blog/Second Brain article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +110,15 @@
   },
   "active": "4ab643dc013dc684",
   "lastOpenFiles": [
-    "Blog/History of notes.md",
     "Blog/Second Brain article.md",
     "Blog/Process of education.md",
-    "🖥Tech/🖥tech.md",
-    "🖥Tech/📊Data Analysis/📊data analysis.md",
-    "🖥Tech/👨‍💻Coding/👨‍💻coding.md",
-    "🖥Tech/📊Data Analysis/SQL functions.md",
-    "🖥Tech/📊Data Analysis/SQL.md",
-    "🖥Tech/👨‍💻Coding/Object constructors.md",
-    "🖥Tech/👨‍💻Coding/Object methods.md"
+    "Blog/History of notes.md",
+    "scientific management.md",
+    "goals.md",
+    "Hotkeys Cheatsheet.md",
+    "Admonition.md",
+    "Creativity note.md",
+    "📖classic.md",
+    "🏠 Home Page.md"
   ]
 }

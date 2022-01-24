@@ -12,11 +12,11 @@ Surprisingly to me, I meet lots of people who still take their notes with "good 
 
 ### 5 factors of a note-taking system
 1. Speed of typing
-
-3. Accessibility
-4. Edibility
-5. Shareability
-6. Remembering
+- In this category, there is no surprise. Even if you consider yourself a slow typer, an average handwriting speed is around 13 words per minute and average typing speed is around 40 words per minute. With a little bit of practice and proper hand placing on your keyboard, you can easily triple this score. Point for digital notes.
+2. Accessibility
+3. Edibility
+4. Shareability
+5. Remembering
 
 If you are a veteran passionate of learning (or a medical student) then you have probably discovered by now that after a while, your note-taking apps become a huge pile of unorganized random thoughts. I for instance read quite a lot of books and take quite a lot of notes.  
  

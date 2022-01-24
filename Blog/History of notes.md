@@ -24,10 +24,10 @@ In the past few years we observed a revolutionary breakthrough, however. People 
 
 ## Notes eras
 #### Notes 1.0
-Handwritten on paper. Stored in the physical notebooks.
+Handwritten on paper. Stored in the physical notebooks. (Ancient Greeks - 1990)
 #### Notes 2.0
-Typed in a document editor on a computer. Stored in named folders on a hard drive or a cloud.
+Typed in a document editor on a computer. Stored in named folders on a hard drive or a cloud.(1990 - 2010)
 #### Notes 3.0
-Typed or recorded from any IoT device. Stored in one system with an internal search engine and notes linking system.
+Typed or recorded from any IoT device. Stored in one system with an internal search engine and notes linking system. (2010 - present)
 #### Notes 4.0 (possible future)
 Advanced hybrid between text and sound turned into text. Recorded from any device. Auto generated script from lectures, conversation into a written form. Sound -> Text, Text -> Sound. Visualisation of discussed topics, images, characters. 
