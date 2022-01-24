@@ -31,6 +31,7 @@ Stawki procentowe są stosowane natomiast przy opodatkowaniu samochodów osobowy
 ```
 ### 📂 Resources
 - [Co to jest akcyza?](https://businessinsider.com.pl/poradnik-finansowy/co-to-jest-akcyza/zps5cyp)
+- [What is Excise Tax and How Does it Differ from Sales Tax?](https://www.accuratetax.com/blog/what-is-excise-tax/)
 
 
 🏷Tags: [[💰finance]]

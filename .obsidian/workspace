@@ -6,10 +6,25 @@
       {
         "id": "bdc289b0f72b17b0",
         "type": "leaf",
+        "dimension": 34.28853754940712,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hotkeys Cheatsheet.md",
+            "file": "📕 Books/📕 Books.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4ab643dc013dc684",
+        "type": "leaf",
+        "dimension": 65.71146245059289,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Blog/History of notes.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Bent",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hotkeys Cheatsheet.md",
+                "file": "Blog/History of notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +123,17 @@
     "width": 232,
     "collapsed": true
   },
-  "active": "bdc289b0f72b17b0",
+  "active": "4ab643dc013dc684",
   "lastOpenFiles": [
-    "Hotkeys Cheatsheet.md",
-    "goals.md",
-    "Fayol.md",
-    "Creativity note.md",
-    "Admonition.md",
-    "✌️Ethics/✌️ethics.md",
-    "✌️Ethics/Consequentialism.md",
-    "🎓University/🎓university.md",
-    "💼 Business/💼 Business.md",
-    "📕 Books/📕 Books.md"
+    "Blog/History of notes.md",
+    "Blog/Second Brain article.md",
+    "Blog/Process of education.md",
+    "🖥Tech/🖥tech.md",
+    "🖥Tech/📊Data Analysis/📊data analysis.md",
+    "🖥Tech/👨‍💻Coding/👨‍💻coding.md",
+    "🖥Tech/📊Data Analysis/SQL functions.md",
+    "🖥Tech/📊Data Analysis/SQL.md",
+    "🖥Tech/👨‍💻Coding/Object constructors.md",
+    "🖥Tech/👨‍💻Coding/Object methods.md"
   ]
 }

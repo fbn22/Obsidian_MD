@@ -11,7 +11,7 @@
 - CTRL + R = Sync Readwise
 - CTRL + , = Settings
 - CTRL + SHIFT + F = Search on all files
-- CTRL + F = Search in current filep
+- CTRL + F = Search in current file
 - CTRL + ~ = Fold everything
 - CTRL + + '-' (minus) = Toggle bullet or numbered list
 - CTRL + SHIFT + P = Pin note

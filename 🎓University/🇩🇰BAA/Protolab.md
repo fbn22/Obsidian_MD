@@ -7,7 +7,7 @@
 4. Protolab collects participants' solutions and sends them to a company. A company picks a winner and chooses their solution as the one they will implement in their company.
 
 
-### The winner receives:
+### A winner receives:
 - An award funded by Protolab
 - Official endorsement from the company on each winner LinkedIn profile to help with their social media presence.
 - Official certificate issued by Protolab and signed by the company in the digital and paper form confirming contribution to the company's work.
